@@ -69,6 +69,7 @@
   <ItemGroup>
     <Content Include="AboutUsPage.aspx" />
     <Content Include="ContactUsPage.aspx" />
+    <Content Include="StyleSheet.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
